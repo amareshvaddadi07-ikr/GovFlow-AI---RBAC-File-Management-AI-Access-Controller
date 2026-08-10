@@ -1,0 +1,10 @@
+{
+  "name": "GovFlow AI - RBAC File Management & AI Access Controller",
+  "description": "Organizational File Management System with strict Role-Based Access Control (RBAC) and AI Data Access Controller.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
